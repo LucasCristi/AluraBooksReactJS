@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Footer from "./componentes/Footer";
 import Header from "./componentes/Header";
 import Search from "./componentes/Search";
 
@@ -14,6 +15,7 @@ function App() {
     <AppContainer>
       <Header />
       <Search />
+      <Footer />
     </AppContainer>
   );
 }

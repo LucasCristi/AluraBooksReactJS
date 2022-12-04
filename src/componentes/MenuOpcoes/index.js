@@ -1,20 +1,20 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Options = styled.ul`
-display: flex;
-`
+  display: flex;
+`;
 
 const Option = styled.li`
-font-size: 1.2rem;
-    display: flex;
-    min-width: 12rem;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    padding: 0 .3rem;
-    cursor: pointer;
-`
+  font-size: 1.2rem;
+  display: flex;
+  min-width: 12rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 0 0.3rem;
+  cursor: pointer;
+`;
 
 const textOptions = ["home", "categorias", "favoritos", "minha estante"];
 
