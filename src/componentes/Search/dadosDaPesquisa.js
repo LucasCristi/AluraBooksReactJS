@@ -17,7 +17,7 @@ export const livros = [
     src: livro,
   },
   {
-    nome: "Node JS",
+    nome: "Front-end",
     id: 4,
     src: livro,
   },
@@ -27,38 +27,19 @@ export const livros = [
     src: livro,
   },
   {
-    nome: "Node JS - fundamentos",
-    id: 5,
+    nome: "React JS",
+    id: 6,
     src: livro,
   },
   {
-    nome: "Node JS - fundamentos",
-    id: 5,
+    nome: "Back-end",
+    id: 7,
     src: livro,
   },
-  {
-    nome: "Node JS - fundamentos",
-    id: 5,
-    src: livro,
-  },
-  {
-    nome: "Node JS - fundamentos",
-    id: 5,
-    src: livro,
-  },
-  {
-    nome: "Node JS - fundamentos",
-    id: 5,
-    src: livro,
-  },
-  {
-    nome: "Node JS - fundamentos",
-    id: 5,
-    src: livro,
-  },
+  
   {
     nome: "Liderança em Administração",
-    id: 6,
+    id: 8,
     src: livro,
   },
 ];
