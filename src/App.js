@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import Footer from "./componentes/Footer";
 import Header from "./componentes/Header";
+import Lancamentos from "./componentes/Lancamentos";
 import Search from "./componentes/Search";
 
 //styled components
@@ -15,6 +16,7 @@ function App() {
     <AppContainer>
       <Header />
       <Search />
+      <Lancamentos/>
       <Footer />
     </AppContainer>
   );
